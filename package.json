@@ -4,7 +4,9 @@
   "description": "CFCA homing-leopards project field investigation startup book",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gitbook install && gitbook serve",
+    "build": "gitbook install && gitbook build",
+    "deploy": "sh ./scripts/deploy.sh"
   },
   "repository": {
     "type": "git",
