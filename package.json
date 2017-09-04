@@ -1,0 +1,19 @@
+{
+  "name": "field-investigation-startup",
+  "version": "0.1.0",
+  "description": "CFCA homing-leopards project field investigation startup book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konrumi/field-investigation-startup.git"
+  },
+  "author": "Konru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konrumi/field-investigation-startup/issues"
+  },
+  "homepage": "https://github.com/konrumi/field-investigation-startup#readme"
+}
