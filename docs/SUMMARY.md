@@ -1,12 +1,13 @@
 # Summary
 
-* [Introduction](./README.md)
+* [介绍](./README.md "介绍")
 
 ---
 
-* [Part1](./part1/part1.md "part 1")
-    * [sub1](./part1/sub1.md "sub 1")
-    * [sub2](./part1/sub2.md "sub 2")
+* [调查目的](./part1/part1.md "part 1")
+* [事前准备](./part1/part1.md "part 1")
+* [注意事项](./part1/part1.md "part 1")
+* [注意事项](./part1/part1.md "part 1")
 
 ---
 

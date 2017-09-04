@@ -1,3 +1,7 @@
-# Field Investigation Startup
+# 猫盟野外调查起步
 
-This is the project readme file.
+本文介绍了
+
+## Version
+
+The version of this book is {{book.version}}. 

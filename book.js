@@ -3,9 +3,9 @@ let pkg = require('./package.json');
 module.exports = {
     author: 'Konru',
 
-    title: 'The Title',
+    title: '猫盟野外调查起步',
 
-    description: 'The Description',
+    description: '介绍参与猫盟野外调查的基本知识与常见注意事项。',
 
     root: './docs',
 
