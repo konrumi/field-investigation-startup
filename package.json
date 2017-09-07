@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gitbook install && gitbook serve",
     "build": "gitbook install && gitbook build",
-    "deploy": "sh ./scripts/deploy.sh"
+    "deploy": "sh ./_scripts/deploy.sh"
   },
   "repository": {
     "type": "git",
