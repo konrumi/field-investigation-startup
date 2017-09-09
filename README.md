@@ -6,8 +6,10 @@
 
 ## 访问
 
-您可以直接访问Github Pages上托管的页面，在线阅读：https://konrumi.github.io/field-investigation-startup/
+您可以直接访问Github Pages上托管的页面，在线阅读：
+
+- Github Pages [猫盟野外调查起步](https://konrumi.github.io/field-investigation-startup/ "猫盟野外调查起步")
 
 也可以下载本书的存档，本地观看：
 
-**暂无**
+- **暂无**
