@@ -18,7 +18,7 @@
 * [地图工具](./map-tools/map-tools.md "地图工具")
     * [Google Earth](./map-tools/google-earth.md "Google Earth")
     * [OruxMaps](./map-tools/oruxmaps.md "OruxMaps")
-    * [奥维](./map-tools/aowei.md "奥维")
+    * [奥维互动地图](./map-tools/ovital.md "奥维")
 
 * [气象预报](./part1/part1.md "气象预报")
 
