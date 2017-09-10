@@ -19,7 +19,7 @@ OruxMaps可以从官网下载点下载，目前（2017年9月6日）版本为`v.
 
 首先，需对OruxMap App的面板和基础功能进行介绍。
 
-![基础功能](../asset/map-tools/common-00.png)
+![基础功能](../asset/map-tools/oruxmaps/common-00.png)
 
 ### ① 顶部菜单
 
@@ -89,15 +89,15 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 点击右上角的 **地图** 按钮，在弹出菜单中，选择 **切换地图** 。
 
-![在APP中下载安装离线地图](../asset/map-tools/download-map-via-app-00.png)
+![在APP中下载安装离线地图](../asset/map-tools/oruxmaps/download-map-via-app-00.png)
 
 点击右上角的 **⊕（添加）** 按钮。
 
-![在APP中下载安装离线地图](../asset/map-tools/download-map-via-app-01.png)
+![在APP中下载安装离线地图](../asset/map-tools/oruxmaps/download-map-via-app-01.png)
 
 在最后的 **World** 中，选择 **OpenAndroMaps** 。
 
-![在APP中下载安装离线地图](../asset/map-tools/download-map-via-app-02.png)
+![在APP中下载安装离线地图](../asset/map-tools/oruxmaps/download-map-via-app-02.png)
 
 选择后，将进入APP浏览器访问OpenAndroMaps网站。用户需要分别下载 **主题文件** 与 **地图文件** 。后续的步骤与PC下载类似，因此请参考下面的PC教程。
 
@@ -111,11 +111,11 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 访问 **[OpenAndroMaps官网](https://www.openandromaps.org/en/downloads "OpenAndroMaps")** ，进入 **[Elevate主题文件下载页](https://www.openandromaps.org/en/legend/elevate-mountain-hike-theme "Elevate下载")** 。
 
-![在PC下载离线地图传至手机安装](../asset/map-tools/download-map-via-pc-00.png)
+![在PC下载离线地图传至手机安装](../asset/map-tools/oruxmaps/download-map-via-pc-00.png)
 
 若希望使用App安装，点击左侧的 **OruxMaps** ；若希望在PC下载，点击右侧的 **Normal Version** 。
 
-![在PC下载离线地图传至手机安装](../asset/map-tools/download-map-via-pc-01.png)
+![在PC下载离线地图传至手机安装](../asset/map-tools/oruxmaps/download-map-via-pc-01.png)
 
 若在App内下载，则安装应该能够自动完成。若正常下载，则您应当得到一个Zip压缩包。
 
@@ -123,19 +123,19 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 > 注：在安装手机管理软件时，请务必注意甄别安装来源和选项，以免对个人手机电脑、手机造成负面影响。
 
-![安装地图样式](../asset/map-tools/install-style-00.png)
+![安装地图样式](../asset/map-tools/oruxmaps/install-style-00.png)
 
-![安装地图样式](../asset/map-tools/install-style-01.png)
+![安装地图样式](../asset/map-tools/oruxmaps/install-style-01.png)
 
 安装完成后，打开OruxMaps App，点击右上角的 **地图** 按钮，在弹出菜单中，选择 **Map tweaks（调整地图）** 。
 
-![安装地图样式](../asset/map-tools/install-style-02.png)
+![安装地图样式](../asset/map-tools/oruxmaps/install-style-02.png)
 
 在弹出菜单中，选择 **OSM主题** ，然后选择刚安装的 **Elevate** 主题即可。
 
-![安装地图样式](../asset/map-tools/install-style-03.png)
+![安装地图样式](../asset/map-tools/oruxmaps/install-style-03.png)
 
-![安装地图样式](../asset/map-tools/install-style-04.png)
+![安装地图样式](../asset/map-tools/oruxmaps/install-style-04.png)
 
 ---
 
@@ -145,29 +145,29 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 访问 **[OpenAndroMaps官网](https://www.openandromaps.org/en/downloads "OpenAndroMaps")** ，进入 **[地图文件下载页](https://www.openandromaps.org/en/downloads/countrys-and-regions "地图文件下载")** 。
 
-![在PC下载离线地图传至手机安装](../asset/map-tools/download-map-via-pc-02.png)
+![在PC下载离线地图传至手机安装](../asset/map-tools/oruxmaps/download-map-via-pc-02.png)
 
 在地图文件下载页，选择希望下载的目标区域，这里选择 **[亚洲/中东区域](https://www.openandromaps.org/en/downloads/asia-middle-east "亚洲/中东区域")** 。
 
-![在PC下载离线地图传至手机安装](../asset/map-tools/download-map-via-pc-03.png)
+![在PC下载离线地图传至手机安装](../asset/map-tools/oruxmaps/download-map-via-pc-03.png)
 
 在列表中，选择调查区域所述的位置，如 **中国北方** ，随后在展开的页面中选择下载。另外，也应该下载 **Poi包** 。
 
 若在App内下载，则安装应该能够自动完成。若正常下载，则您应当得到一个地图Zip压缩包和PoiZip压缩包。
 
-![在PC下载离线地图传至手机安装](../asset/map-tools/download-map-via-pc-04.png)
+![在PC下载离线地图传至手机安装](../asset/map-tools/oruxmaps/download-map-via-pc-04.png)
 
 解压缩后，将地图文件和Poi文件存入手机的 `../oruxmaps/mapfiles/` 目录下即可。
 
-![在PC下载离线地图传至手机安装](../asset/map-tools/download-map-via-pc-05.png)
+![在PC下载离线地图传至手机安装](../asset/map-tools/oruxmaps/download-map-via-pc-05.png)
 
 安装完成后，打开OruxMaps App，点击右上角的 **地图** 按钮，在弹出菜单中，选择 **切换地图** 。
 
-![在PC下载离线地图传至手机安装](../asset/map-tools/download-map-via-pc-06.png)
+![在PC下载离线地图传至手机安装](../asset/map-tools/oruxmaps/download-map-via-pc-06.png)
 
 在弹出界面中，选择上方的 **OFFLINE** ，再选择刚刚安装的 **CHINA-NORTH_ML(MAPSFORGE)** 地图即可。
 
-![在PC下载离线地图传至手机安装](../asset/map-tools/download-map-via-pc-07.png)
+![在PC下载离线地图传至手机安装](../asset/map-tools/oruxmaps/download-map-via-pc-07.png)
 
 ---
 
@@ -181,7 +181,7 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 OruxMaps使用 `onlinemapsources.xml` 文件管理在线地图的来源。我们可以在其中加入以下3个Google Maps CN的地图源。
 
-如果觉得麻烦，你也可以直接下载编辑好的 [`onlinemapsources.xml`](../asset/map-tools/onlinemapsources.xml) 。
+如果觉得麻烦，你也可以直接下载编辑好的 [`onlinemapsources.xml`](../asset/map-tools/oruxmaps/onlinemapsources.xml) 。
 
 ```xml
 <onlinemapsource uid="0">
@@ -246,15 +246,15 @@ OruxMaps使用 `onlinemapsources.xml` 文件管理在线地图的来源。我们
 
 > 注：每次OruxMaps升级后，都会创建一个新的 `onlinemapsources.xml` ，而旧的 `onlinemapsources.xml` 会被重命名为 `onlinemapsources.xml.bak` 文件保存在相同位置。升级后请手动替换 `onlinemapsources.xml` 文件。
 
-![添加地图](../asset/map-tools/add-google-maps-00.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-00.png)
 
 完成后，打开OruxMaps App，点击右上角的 **地图** 按钮，在弹出菜单中，选择 **切换地图** 。
 
-![添加地图](../asset/map-tools/add-google-maps-01.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-01.png)
 
 在弹出界面中，选择上方的 **刷新** ，刚刚添加的Google地图应该就会出现在列表中。
 
-![添加地图](../asset/map-tools/add-google-maps-02.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-02.png)
 
 ---
 
@@ -262,35 +262,35 @@ OruxMaps使用 `onlinemapsources.xml` 文件管理在线地图的来源。我们
 
 选择Google Earth地图后，我们即可在线查看Google Earth卫星地图了。但是在野外调查中，时常遇到没有信号的情况，因此我们也可以预先下载地图图块，作为离线地图。
 
-![添加地图](../asset/map-tools/add-google-maps-03.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-03.png)
 
 打开OruxMaps App，点击右上角的 **地图** 按钮，在弹出菜单中，选择 **Map tools（地图工具）** 。
 
-![添加地图](../asset/map-tools/add-google-maps-04.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-04.png)
 
 在弹出菜单中，选择 **创建地图** 。
 
-![添加地图](../asset/map-tools/add-google-maps-05.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-05.png)
 
 
 此时进入区域选择界面，在地图上点击，以选择需要下载的区域的 **左上** 、 **右下** 顶点。形成的矩形范围，即为需要预先下载的离线地图的范围。选择完成后，点击底部的 **√（确认）** 按钮以确认范围。
 
-![添加地图](../asset/map-tools/add-google-maps-06.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-06.png)
 
 在弹出界面中，勾选地图图层粒度。数字越大，粒度越细，地图细节越好，需要下载的图片也就越多。一般下载到 **15~16** 级即可。然后输入地图名称，即可开始下载。
 
-![添加地图](../asset/map-tools/add-google-maps-07.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-07.png)
 
 
 根据选择的图层粒度与区域大小，下载将持续一段时间。
 
-![添加地图](../asset/map-tools/add-google-maps-08.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-08.png)
 
-![添加地图](../asset/map-tools/add-google-maps-09.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-09.png)
 
 下载完成后，即会成功创建一个新的地图。退出创建地图界面，进入 **切换地图** 界面，选择 **OFFLINE** ，点击顶部的 **刷新** 按钮，即可看到刚刚创建的Goole Earth离线地图。需要使用时，切换到该地图即可。
 
-![添加地图](../asset/map-tools/add-google-maps-10.png)
+![添加地图](../asset/map-tools/oruxmaps/add-google-maps-10.png)
 
 > 注：需要删除时，在地图列表长按希望删除的地图，即可将其删除。
 
@@ -302,21 +302,21 @@ OruxMaps使用 `onlinemapsources.xml` 文件管理在线地图的来源。我们
 
 点击右上角的 **地图** 按钮，在弹出菜单中，选择 **Map tools（地图工具）** 。
 
-![使用3D地图](../asset/map-tools/dem-00.png)
+![使用3D地图](../asset/map-tools/oruxmaps/dem-00.png)
 
 在弹出的菜单中，选择 **3D地图** 。
 
-![使用3D地图](../asset/map-tools/dem-01.png)
+![使用3D地图](../asset/map-tools/oruxmaps/dem-01.png)
 
 如果此处没有用于保存高度信息的DEM文件，OruxMaps会提示你下载，点击 **确定** 以下载。
 
-![使用3D地图](../asset/map-tools/dem-02.png)
+![使用3D地图](../asset/map-tools/oruxmaps/dem-02.png)
 
-![使用3D地图](../asset/map-tools/dem-03.png)
+![使用3D地图](../asset/map-tools/oruxmaps/dem-03.png)
 
 下载完成后，即可在3D地图界面中查看地形信息。
 
-![使用3D地图](../asset/map-tools/dem-04.png)
+![使用3D地图](../asset/map-tools/oruxmaps/dem-04.png)
 
 ---
 
@@ -336,19 +336,19 @@ OruxMaps App的另一项实用功能，是支持记录行进的GPS航迹，在�
 
 点击App顶部菜单的 **轨迹** 按钮。
 
-![记录GPS航迹](../asset/map-tools/track-record-00.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-00.png)
 
 在弹出菜单中，选择 **开始记录** 选项，开始记录后，此选项会变成 **停止记录** 。
 
-![记录GPS航迹](../asset/map-tools/track-record-01.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-01.png)
 
 开始记录后，界面底部出现 *“航迹记录中”* 提示，下方弹出航迹参数面板，且当前位置出现一个 **起点路点** 。
 
-![记录GPS航迹](../asset/map-tools/track-record-02.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-02.png)
 
 在航迹记录状态下，当位置发生移动后，移动的航迹将被记录，并在地图中以 *红色箭头* 表示。
 
-![记录GPS航迹](../asset/map-tools/track-record-03.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-03.png)
 
 #### 停止记录GPS航迹
 
@@ -356,13 +356,13 @@ OruxMaps App的另一项实用功能，是支持记录行进的GPS航迹，在�
 
 在弹出的界面中，检查填写航迹信息，点击右上角的 **√（确认）** 按钮保存。
 
-![记录GPS航迹](../asset/map-tools/track-record-04.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-04.png)
 
 保存后，会自动创建一个 **终点路点** ，并且其描述中，会附上本段航迹的运动信息。
 
-![记录GPS航迹](../asset/map-tools/track-record-05.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-05.png)
 
-![记录GPS航迹](../asset/map-tools/track-record-06.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-06.png)
 
 #### 开始记录新的GPS航段
 
@@ -370,27 +370,27 @@ OruxMaps App的另一项实用功能，是支持记录行进的GPS航迹，在�
 
 若认为新航迹与老航迹应当同属于一个航迹（如中午吃饭时，停止航迹记录，下午出发时，继续开始航迹记录，且两个航迹应当皆属于同一个航迹）则新的航迹应当被建立成一个新航段。
 
-![记录GPS航迹](../asset/map-tools/track-record-07.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-07.png)
 
 开始记录后，界面底部出现 *“继续记录轨迹，已开始的新航段”* 提示，下方弹出航迹参数面板，且当前位置出现另一个 **起点路点** 。
 
-![记录GPS航迹](../asset/map-tools/track-record-08.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-08.png)
 
 此时航迹记录继续开始，当位置发生移动后，移动的航迹将被记录，并在地图中以 *红色箭头* 表示。
 
-![记录GPS航迹](../asset/map-tools/track-record-09.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-09.png)
 
 停止记录后，将能继续编辑当前航迹信息。
 
-![记录GPS航迹](../asset/map-tools/track-record-10.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-10.png)
 
 每当一个航段停止记录后，也将自动创建一个新的 **终点路点** ，并且其描述中，会附上本段航迹的运动信息。
 
-![记录GPS航迹](../asset/map-tools/track-record-11.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-11.png)
 
 多端航迹也将显示在同一屏幕中。
 
-![记录GPS航迹](../asset/map-tools/track-record-12.png)
+![记录GPS航迹](../asset/map-tools/oruxmaps/track-record-12.png)
 
 ---
 
@@ -400,53 +400,53 @@ OruxMaps App的另一项实用功能，是支持记录行进的GPS航迹，在�
 
 点击App顶部菜单的 **路点** 按钮。
 
-![标记路点](../asset/map-tools/mark-waypoint-00.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-00.png)
 
 在弹出菜单中，选择 **创建** 选项。
 
-![标记路点](../asset/map-tools/mark-waypoint-01.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-01.png)
 
 在弹出的窗口中，填写路点的基本信息，点击右上角的 **√（确认）** 按钮保存。
 
-![标记路点](../asset/map-tools/mark-waypoint-02.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-02.png)
 
 保存后，刚刚编辑的路点即会出现在地图上。
 
-![标记路点](../asset/map-tools/mark-waypoint-03.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-03.png)
 
 #### 添加照片路点：
 
 点击App顶部菜单的 **路点** 按钮，在弹出菜单中，选择 **照片路点** 选项。
 
-![标记路点](../asset/map-tools/mark-waypoint-04.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-04.png)
 
 OruxMaps将调起系统相机，拍照后确认，在弹出的窗口中，填写路点的基本信息，点击右上角的 **√（确认）** 按钮保存，即可以该照片创建照片路点。
 
-![标记路点](../asset/map-tools/mark-waypoint-05.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-05.png)
 
 #### 查看路点信息：
 
 点击页面上已有的路点，可以查看路点信息。进而可以进行 **编辑** 、 **删除** 等操作。
 
-![标记路点](../asset/map-tools/mark-waypoint-06.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-06.png)
 
 #### 在地图任意位置标记路点：
 
 拖动地图，将光标移动到希望标记路点的位置。
 
-![标记路点](../asset/map-tools/mark-waypoint-07.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-07.png)
 
 长按希望标记路点的位置，在弹出菜单中，选择 **创建路点** 。
 
-![标记路点](../asset/map-tools/mark-waypoint-08.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-08.png)
 
 在弹出的窗口中，填写路点的基本信息，点击右上角的 **√（确认）** 按钮保存。
 
-![标记路点](../asset/map-tools/mark-waypoint-09.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-09.png)
 
 将光标移动到地图位置，可以测量当前位置与光标位置的 **距离** 、 **角度** 、 **直线到达时间** 等信息。
 
-![标记路点](../asset/map-tools/mark-waypoint-10.png)
+![标记路点](../asset/map-tools/oruxmaps/mark-waypoint-10.png)
 
 ---
 
@@ -456,41 +456,41 @@ OruxMaps将调起系统相机，拍照后确认，在弹出的窗口中，填写
 
 点击App顶部菜单的 **航迹/路径** 按钮。
 
-![查看航迹统计信息](../asset/map-tools/detail-00.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-00.png)
 
 在弹出菜单中，选择 **Manage Track/Routes（管理航迹/路径）** 选项。
 
-![查看航迹统计信息](../asset/map-tools/detail-01.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-01.png)
 
 进入航迹管理界面，在此可以进行查看航迹详情，合并、删除航迹等操作。
 
 点击希望查看详情的航迹，在弹出的菜单中，选择 **Properties（属性）** 选项。
 
-![查看航迹统计信息](../asset/map-tools/detail-02.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-02.png)
 
 在航迹属性界面中，点击 **查看航迹统计信息** 按钮。
 
-![查看航迹统计信息](../asset/map-tools/detail-03.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-03.png)
 
 此时即可查看当前航迹的信息。
 
-![查看航迹统计信息](../asset/map-tools/detail-04.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-04.png)
 
 点击右上角的 **配置（齿轮图标）** 按钮，可以选择具体查看哪个航段的信息。
 
-![查看航迹统计信息](../asset/map-tools/detail-05.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-05.png)
 
 点击 **详细** 按钮，可以展开查看路径中各个距离阶段的 **时间** 、 **速度** 、 **高程** 等信息。
 
-![查看航迹统计信息](../asset/map-tools/detail-06.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-06.png)
 
 点击 **查看图表** 按钮，可以查看 **时间**-**高程**/**速度**/**坡度**/**心跳次数**（*仅当有设备支持的情况下*） 图表。
 
-![查看航迹统计信息](../asset/map-tools/detail-07.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-07.png)
 
 图表的横轴为 **时间** ，纵轴为选定的参数的函数图像，航迹中的路点也将被标记出来。
 
-![查看航迹统计信息](../asset/map-tools/detail-08.png)
+![查看航迹统计信息](../asset/map-tools/oruxmaps/detail-08.png)
 
 ---
 
@@ -502,13 +502,13 @@ OruxMaps将调起系统相机，拍照后确认，在弹出的窗口中，填写
 
 勾选希望合并的航迹，选择 **合并航迹** 按钮。
 
-![合并航迹](../asset/map-tools/merge-00.png)
+![合并航迹](../asset/map-tools/oruxmaps/merge-00.png)
 
-![合并航迹](../asset/map-tools/merge-01.png)
+![合并航迹](../asset/map-tools/oruxmaps/merge-01.png)
 
 合并后，即会生成一个新航迹。
 
-![合并航迹](../asset/map-tools/merge-02.png)
+![合并航迹](../asset/map-tools/oruxmaps/merge-02.png)
 
 ---
 
@@ -522,7 +522,7 @@ OruxMaps将调起系统相机，拍照后确认，在弹出的窗口中，填写
 
 勾选希望保存成航迹文件的航迹，选择 **保存航迹** 按钮。
 
-![导出航迹](../asset/map-tools/export-00.png)
+![导出航迹](../asset/map-tools/oruxmaps/export-00.png)
 
 在弹出的菜单中，选择希望保存的文件格式。
 
@@ -530,7 +530,7 @@ OruxMaps将调起系统相机，拍照后确认，在弹出的窗口中，填写
 > - GPX：可导入各种软件（如Lightroom等）的通用GPS航迹文件格式；
 > - KML/KMZ：可导入GoogleEarth的GPS航迹文件格式；
 
-![导出航迹](../asset/map-tools/export-01.png)
+![导出航迹](../asset/map-tools/oruxmaps/export-01.png)
 
 选择后，即可将航迹以选择的文件格式保存至手机中。
 
@@ -544,15 +544,15 @@ OruxMaps将调起系统相机，拍照后确认，在弹出的窗口中，填写
 
 在航迹属性界面中，点击 **分享航迹** 按钮。
 
-![导出航迹](../asset/map-tools/export-02.png)
+![导出航迹](../asset/map-tools/oruxmaps/export-02.png)
 
 选择希望分享的航迹格式后，便会调起系统分享浮层，选择希望的分享方式即可。
 
-![导出航迹](../asset/map-tools/export-03.png)
+![导出航迹](../asset/map-tools/oruxmaps/export-03.png)
 
 此处以`MIUI8`分享到 *小米云盘* 为例。
 
-![导出航迹](../asset/map-tools/export-04.png)
+![导出航迹](../asset/map-tools/oruxmaps/export-04.png)
 
 ---
 
@@ -562,19 +562,19 @@ OruxMaps将调起系统相机，拍照后确认，在弹出的窗口中，填写
 
 点击App顶部菜单的 **航迹/路径** 按钮，在弹出菜单中，选择 **Track/Routes tools（航迹/路径工具）** 选项。
 
-![从数据文件载入航迹](../asset/map-tools/reload-00.png)
+![从数据文件载入航迹](../asset/map-tools/oruxmaps/reload-00.png)
 
 在弹出菜单中，选择 **载入 KML/GPX 格式文件** 。
 
-![从数据文件载入航迹](../asset/map-tools/reload-01.png)
+![从数据文件载入航迹](../asset/map-tools/oruxmaps/reload-01.png)
 
 在手机中选择希望载入的数据文件，即可载入文件。文件载入后，会弹出导航和记录选项窗口，功能如下：
 
 - 导航：以载入的航迹文件为基准，开始导航。
 - 记录：开启一个新的航迹记录。
 
-![从数据文件载入航迹](../asset/map-tools/reload-02.png)
+![从数据文件载入航迹](../asset/map-tools/oruxmaps/reload-02.png)
 
 载入后，航迹文件中的航迹、路点信息都将呈现在地图之中。
 
-![从数据文件载入航迹](../asset/map-tools/reload-03.png)
+![从数据文件载入航迹](../asset/map-tools/oruxmaps/reload-03.png)
