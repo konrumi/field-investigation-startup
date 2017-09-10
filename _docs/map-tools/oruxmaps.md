@@ -66,7 +66,7 @@ OruxMaps可以从官网下载点下载，目前（2017年9月6日）版本为`v.
 OruxMaps作为一个户外地图App，提供的最主要功能便是地图功能。本节主要介绍OruxMaps的以下地图功能：
 
 - 下载、安装离线地图；
-- 添加Google地图；
+- 添加地图；
 - 使用3D地图；
 
 ### 离线地图下载
@@ -105,7 +105,7 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 #### 在PC下载离线地图传至手机安装
 
-- 下载地图
+#### 下载地图
 
 为正确显示等高线等信息，需下载配套的 **主题文件：Elevate** 。
 
@@ -121,7 +121,7 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 解压缩后，将得到的文件存入手机的 `../oruxmaps/mapstyles/` 目录下即可。连接手机可通过各种软件完成，如 **[豌豆荚](http://www.wandoujia.com/)** 等。为了将手机连接至电脑，你可能需要启用手机的USB调试模式。
 
-> 注：在安装手机管理软件时，请务必注意甄别安装选项，以免安装多余内容。
+> 注：在安装手机管理软件时，请务必注意甄别安装来源和选项，以免对个人手机电脑、手机造成负面影响。
 
 ![安装地图样式](../asset/map-tools/install-style-00.png)
 
@@ -139,7 +139,7 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 ---
 
-- 安装地图
+#### 安装地图
 
 准备好样式文件后，即可下载安装地图文件。
 
@@ -171,9 +171,11 @@ OruxMaps官网提供了许多地图来源，可参见[地图下载页](http://ww
 
 ---
 
-### 添加Google地图
+### 添加地图
 
-- 配置Google在线地图
+#### 配置在线地图
+
+除了默认提供的地图外，OruxMaps也支持我们自定义地图来源，此处以Google Earth地图为例。
 
 野外调查中，除了矢量的离线地图以外，我们往往还需要更能体现当地自然环境的卫星地图。Google Earth是目前比较成功的卫星地图提供商。虽然Google的许多产品由于众所周知的原因在大陆并不可用，但是我们仍然可以使用Google Maps CN提供的服务，只需要把Google的地图来源添加到OruxMaps中即可。
 
@@ -244,51 +246,51 @@ OruxMaps使用 `onlinemapsources.xml` 文件管理在线地图的来源。我们
 
 > 注：每次OruxMaps升级后，都会创建一个新的 `onlinemapsources.xml` ，而旧的 `onlinemapsources.xml` 会被重命名为 `onlinemapsources.xml.bak` 文件保存在相同位置。升级后请手动替换 `onlinemapsources.xml` 文件。
 
-![添加Google地图](../asset/map-tools/add-google-maps-00.png)
+![添加地图](../asset/map-tools/add-google-maps-00.png)
 
 完成后，打开OruxMaps App，点击右上角的 **地图** 按钮，在弹出菜单中，选择 **切换地图** 。
 
-![添加Google地图](../asset/map-tools/add-google-maps-01.png)
+![添加地图](../asset/map-tools/add-google-maps-01.png)
 
 在弹出界面中，选择上方的 **刷新** ，刚刚添加的Google地图应该就会出现在列表中。
 
-![添加Google地图](../asset/map-tools/add-google-maps-02.png)
+![添加地图](../asset/map-tools/add-google-maps-02.png)
 
 ---
 
-- 离线存储Google地图
+#### 离线存储地图图块
 
-选择Google Earth地图后，我们即可在线查看Google Earth卫星地图了。但是在野外调查中，时常遇到没有信号的情况，因此我们也可以预先将卫星地图下好，作为离线地图。
+选择Google Earth地图后，我们即可在线查看Google Earth卫星地图了。但是在野外调查中，时常遇到没有信号的情况，因此我们也可以预先下载地图图块，作为离线地图。
 
-![添加Google地图](../asset/map-tools/add-google-maps-03.png)
+![添加地图](../asset/map-tools/add-google-maps-03.png)
 
 打开OruxMaps App，点击右上角的 **地图** 按钮，在弹出菜单中，选择 **Map tools（地图工具）** 。
 
-![添加Google地图](../asset/map-tools/add-google-maps-04.png)
+![添加地图](../asset/map-tools/add-google-maps-04.png)
 
 在弹出菜单中，选择 **创建地图** 。
 
-![添加Google地图](../asset/map-tools/add-google-maps-05.png)
+![添加地图](../asset/map-tools/add-google-maps-05.png)
 
 
 此时进入区域选择界面，在地图上点击，以选择需要下载的区域的 **左上** 、 **右下** 顶点。形成的矩形范围，即为需要预先下载的离线地图的范围。选择完成后，点击底部的 **√（确认）** 按钮以确认范围。
 
-![添加Google地图](../asset/map-tools/add-google-maps-06.png)
+![添加地图](../asset/map-tools/add-google-maps-06.png)
 
 在弹出界面中，勾选地图图层粒度。数字越大，粒度越细，地图细节越好，需要下载的图片也就越多。一般下载到 **15~16** 级即可。然后输入地图名称，即可开始下载。
 
-![添加Google地图](../asset/map-tools/add-google-maps-07.png)
+![添加地图](../asset/map-tools/add-google-maps-07.png)
 
 
 根据选择的图层粒度与区域大小，下载将持续一段时间。
 
-![添加Google地图](../asset/map-tools/add-google-maps-08.png)
+![添加地图](../asset/map-tools/add-google-maps-08.png)
 
-![添加Google地图](../asset/map-tools/add-google-maps-09.png)
+![添加地图](../asset/map-tools/add-google-maps-09.png)
 
 下载完成后，即会成功创建一个新的地图。退出创建地图界面，进入 **切换地图** 界面，选择 **OFFLINE** ，点击顶部的 **刷新** 按钮，即可看到刚刚创建的Goole Earth离线地图。需要使用时，切换到该地图即可。
 
-![添加Google地图](../asset/map-tools/add-google-maps-10.png)
+![添加地图](../asset/map-tools/add-google-maps-10.png)
 
 > 注：需要删除时，在地图列表长按希望删除的地图，即可将其删除。
 
