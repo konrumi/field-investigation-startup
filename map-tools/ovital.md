@@ -137,9 +137,190 @@
 
 ## 航迹
 
+奥维互动地图支持记录GPS航迹功能。在野外调查中，通过记录GPS航迹，在后期整理数据的时候，可以很方便地在Google Earth上查看当时的周边地形，亦可为相机的照片标记地理位置。本节主要介绍以下航迹功能：
+
+- 创建目录
+- 记录GPS航迹
+- 标记路点
+- 导出GPS航迹数据
+- 从数据文件载入航迹
+
+### 创建目录
+
+一般情况下，所标记的路点，应当和当前航迹同属于一组数据，因此需要提前在收藏中建立文件夹，以将路点与航迹包含在一起，方便导出。
+
+点击App底部菜单中的 **收藏** 按钮，打开收藏界面。
+
+![创建目录](../asset/map-tools/ovital/create-folder-00.png)
+
+在收藏界面中，点击右上角的 **菜单** 按钮。
+
+![创建目录](../asset/map-tools/ovital/create-folder-01.png)
+
+在弹出菜单中，选择 **新建文件夹** 按钮。
+
+![创建目录](../asset/map-tools/ovital/create-folder-02.png)
+
+在弹出的对话框中，输入文件夹名称，点击 **确定** 。
+
+![创建目录](../asset/map-tools/ovital/create-folder-03.png)
+
+创建完成后，即可将后续产生的航迹和路点均放置于此目录下，导出时，导出此目录为一个航迹数据文件即可。
+
+---
+
 ### 记录GPS航迹
 
-// TODO
+#### 开始记录GPS航迹
+
+点击App左侧菜单中的 **GPS功能** 按钮。
+
+![记录GPS航迹](../asset/map-tools/ovital/record-00.png)
+
+在GPS功能界面中，切换至 **开始记录轨迹** 选项。
+
+![记录GPS航迹](../asset/map-tools/ovital/record-01.png)
+
+开始记录航迹后，左侧GPS图标变换为记录的图标，且地图中出现航迹与起点。
+
+![记录GPS航迹](../asset/map-tools/ovital/record-02.png)
+
+#### 暂停记录GPS航迹
+
+当到达目的地，需要暂停记录GPS轨迹时，可以点击App左侧菜单中的 **GPS功能** 按钮。
+
+在GPS功能界面中，切换至 **暂停记录轨迹** 选项。
+
+![记录GPS航迹](../asset/map-tools/ovital/record-03.png)
+
+暂停记录航迹后，左侧GPS图标变换为暂停的图标。
+
+如需重新开始，在GPS功能界面中，再次切换至 **开始记录轨迹** 选项即可。
+
+重新开始记录后，地图上将出现一段新的GPS轨迹及起点。
+
+![记录GPS航迹](../asset/map-tools/ovital/record-04.png)
+
+#### 编辑、保存路径
+
+在地图上点击路径，即可进入路径界面。
+
+编辑 **名称** 、 **文件夹** 等信息，点击右上角的 **保存** 按钮。
+
+![记录GPS航迹](../asset/map-tools/ovital/record-05.png)
+
+![记录GPS航迹](../asset/map-tools/ovital/record-06.png)
+
+当完成GPS航迹记录时，点击左侧 **GPS功能** 按钮，在GPS功能界面中，切换至 **停止记录轨迹并保存** 选项，然后编辑最后一段路径信息即可。
+
+![记录GPS航迹](../asset/map-tools/ovital/record-07.png)
+
+---
+
+### 标记路点
+
+#### 添加普通路点
+
+如需标记当前路点，在地图上长按当前位置，即可弹出路点界面。
+
+在路点界面中，编辑 **名称** 、 **文件夹** （选择刚刚创建的文件夹） 、 **图标** 等信息后，点击右上角 **保存** 按钮。
+
+![标记路点](../asset/map-tools/ovital/waypoint-00.png)
+
+![标记路点](../asset/map-tools/ovital/waypoint-01.png)
+
+保存后，路点将出现在地图上。
+
+![标记路点](../asset/map-tools/ovital/waypoint-02.png)
+
+如需在任意位置添加路点，长按希望的位置，再在弹出的界面中添加路点即可。
+
+![标记路点](../asset/map-tools/ovital/waypoint-03.png)
+
+#### 添加照片路点
+
+在路点界面中，点击 **附件** 选项。
+
+![标记路点](../asset/map-tools/ovital/waypoint-04.png)
+
+在弹出的附件界面中，点击 **照相** 按钮。
+
+![标记路点](../asset/map-tools/ovital/waypoint-05.png)
+
+在弹出的界面中，点击期望的分辨率，即可调起系统相机拍照。点击右侧 **默认** 按钮，可将选定的画质指定为默认选项。
+
+![标记路点](../asset/map-tools/ovital/waypoint-06.png)
+
+拍照并确认后，即可回到App，查看附件信息。确认无误后，点击 **保存** 按钮。
+
+![标记路点](../asset/map-tools/ovital/waypoint-07.png)
+
+保存后，在附件库中，可以检查和管理附件。
+
+![标记路点](../asset/map-tools/ovital/waypoint-08.png)
+
+将路点保存后，即可看到，地图中出现了照片路点。
+
+![标记路点](../asset/map-tools/ovital/waypoint-09.png)
+
+---
+
+### 导出GPS航迹数据
+
+当记录完成后，需要将GPS数据导出，以供其他设备使用。
+
+点击App底部菜单的 **收藏** 按钮。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-00.png)
+
+在收藏界面，可查看已有的数据，点击目录，即可查看属于某个目录下的具体数据内容，也就是将要被导出的内容。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-01.png)
+
+在收藏界面，点击右上角的 **菜单** 按钮。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-02.png)
+
+在弹出菜单中，选择 **导入导出** 选项。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-03.png)
+
+在导入导出界面中，选择 **导出对象** 按钮。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-04.png)
+
+进行导出前的设置，编辑 **文件类型** 、 **文件名** 后，根据需要，点击 **发送邮件** 或 **保存到文件** 按钮。
+
+> - **发送邮件** ：保存文件后通过手机内置的功能进行分享（途径可选，不一定通过邮件形式）
+> - **保存到文件** ： 将文件保存至App存储空间内
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-05.png)
+
+在弹出界面中，勾选需要导出的目录。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-06.png)
+
+最后进行确认，点击右上角 **导出** 按钮。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-07.png)
+
+若选择的是 **保存到文件** ，导出完成后，会收到如下提示。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-08.png)
+
+若选择的是 **发送邮件** ，导出完成后，会收到如下提示。点击 **确定** 按钮，调起系统分享浮层。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-09.png)
+
+在分享浮层中，选择希望的分享方式即可。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-10.png)
+
+此处以`MIUI8`分享到 *小米云盘* 为例。
+
+![导出GPS航迹数据](../asset/map-tools/ovital/exort-11.png)
+
+---
 
 ### 从数据文件载入航迹
 
