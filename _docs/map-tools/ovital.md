@@ -151,19 +151,19 @@
 
 点击App底部菜单中的 **收藏** 按钮，打开收藏界面。
 
-![创建目录](../asset/map-tools/ovital/create-folder-01.png)
+![创建目录](../asset/map-tools/ovital/create-folder-00.png)
 
 在收藏界面中，点击右上角的 **菜单** 按钮。
 
-![创建目录](../asset/map-tools/ovital/create-folder-02.png)
+![创建目录](../asset/map-tools/ovital/create-folder-01.png)
 
 在弹出菜单中，选择 **新建文件夹** 按钮。
 
-![创建目录](../asset/map-tools/ovital/create-folder-03.png)
+![创建目录](../asset/map-tools/ovital/create-folder-02.png)
 
 在弹出的对话框中，输入文件夹名称，点击 **确定** 。
 
-![创建目录](../asset/map-tools/ovital/create-folder-04.png)
+![创建目录](../asset/map-tools/ovital/create-folder-03.png)
 
 创建完成后，即可将后续产生的航迹和路点均放置于此目录下，导出时，导出此目录为一个航迹数据文件即可。
 
@@ -205,9 +205,9 @@
 
 在地图上点击路径，即可进入路径界面。
 
-![记录GPS航迹](../asset/map-tools/ovital/record-05.png)
-
 编辑 **名称** 、 **文件夹** 等信息，点击右上角的 **保存** 按钮。
+
+![记录GPS航迹](../asset/map-tools/ovital/record-05.png)
 
 ![记录GPS航迹](../asset/map-tools/ovital/record-06.png)
 
