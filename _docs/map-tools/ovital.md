@@ -271,54 +271,54 @@
 
 点击App底部菜单的 **收藏** 按钮。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-00.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-00.png)
 
 在收藏界面，可查看已有的数据，点击目录，即可查看属于某个目录下的具体数据内容，也就是将要被导出的内容。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-01.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-01.png)
 
 在收藏界面，点击右上角的 **菜单** 按钮。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-02.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-02.png)
 
 在弹出菜单中，选择 **导入导出** 选项。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-03.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-03.png)
 
 在导入导出界面中，选择 **导出对象** 按钮。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-04.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-04.png)
 
 进行导出前的设置，编辑 **文件类型** 、 **文件名** 后，根据需要，点击 **发送邮件** 或 **保存到文件** 按钮。
 
 > - **发送邮件** ：保存文件后通过手机内置的功能进行分享（途径可选，不一定通过邮件形式）
 > - **保存到文件** ： 将文件保存至App存储空间内
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-05.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-05.png)
 
 在弹出界面中，勾选需要导出的目录。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-06.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-06.png)
 
 最后进行确认，点击右上角 **导出** 按钮。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-07.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-07.png)
 
 若选择的是 **保存到文件** ，导出完成后，会收到如下提示。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-08.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-08.png)
 
 若选择的是 **发送邮件** ，导出完成后，会收到如下提示。点击 **确定** 按钮，调起系统分享浮层。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-09.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-09.png)
 
 在分享浮层中，选择希望的分享方式即可。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-10.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-10.png)
 
 此处以`MIUI8`分享到 *小米云盘* 为例。
 
-![导出GPS航迹数据](../asset/map-tools/ovital/exort-11.png)
+![导出GPS航迹数据](../asset/map-tools/ovital/export-11.png)
 
 ---
 
