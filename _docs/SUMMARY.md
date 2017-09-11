@@ -16,7 +16,7 @@
 <!-- --- -->
 
 * [地图工具](./map-tools/map-tools.md "地图工具")
-    <!-- * [Google Earth](./map-tools/google-earth.md "Google Earth") -->
+    * [Google Earth](./map-tools/google-earth.md "Google Earth")
     * [OruxMaps](./map-tools/oruxmaps.md "OruxMaps")
     * [奥维互动地图](./map-tools/ovital.md "奥维")
 
