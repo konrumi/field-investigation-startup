@@ -109,7 +109,7 @@
 - **野兔** ；
 - **野猪** ；
 - **猪獾** 、 **狗獾** ：獾子。（猪獾称黑獾子，狗獾称黑白脸獾）；
-- **狍子** （若能看到狍子，或听到叫声，说明生态不错）；
+- **狍子** （若能在村子附近看到狍子，或听到叫声，说明生态不错）；
 - **斑羚** ：野山羊、青羊；
 - **豹猫** ：野狸子、山狸子、土豹子；
 - **褐马鸡** ：角鸡（保护动物）；
@@ -379,5 +379,5 @@
 
 ## 参考信息
 - [蒋老师讲座直播录像](http://weibo.com/tv/l/DsB5XjH4Jqjpkqq0 "蒋老师讲座直播录像")
-- [蒋老师讲座PPT](../asset/investigation/course/FALLING LOVE WITH THE WILD.pptx "蒋老师讲座PPT")
+- [蒋老师讲座PPT](https://github.com/konrumi/field-investigation-startup/blob/master/_docs/asset/investigation/course/FALLING%20LOVE%20WITH%20THE%20WILD.pptx?raw=true "蒋老师讲座PPT")
 - 调查表（待定）。
