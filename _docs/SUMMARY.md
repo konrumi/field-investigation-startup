@@ -4,21 +4,18 @@
 
 ---
 
-<!-- * [目的](./part1/part1.md "目的") -->
-    <!-- * [带豹回家](./part1/part1.md "带豹回家") -->
-    <!-- * [输出结果](./part1/part1.md "输出结果") -->
-<!-- * [过程](./part1/part1.md "过程") -->
-    <!-- * [前期准备](./part1/part1.md "前期准备") -->
-    <!-- * [调查过程](./part1/part1.md "调查过程") -->
-    <!-- * [结果总结](./part1/part1.md "结果总结") -->
-<!-- * [注意事项](./part1/part1.md "注意事项") -->
+* 野外调查
+<!-- * [调查目的](./part1/part1.md "调查目的") -->
+<!-- * [调查准备](./part1/part1.md "调查准备") -->
+    * [调查过程](./investigation/course.md "调查过程")
+<!-- * [调查结果](./part1/part1.md "调查结果") -->
 
-<!-- --- -->
+---
 
 * [地图工具](./map-tools/map-tools.md "地图工具")
     * [Google Earth](./map-tools/google-earth.md "Google Earth")
     * [OruxMaps](./map-tools/oruxmaps.md "OruxMaps")
-    * [奥维互动地图](./map-tools/ovital.md "奥维")
+    * [奥维互动地图](./map-tools/ovital.md "奥维互动地图")
 
 <!-- * [气象预报](./part1/part1.md "气象预报") -->
 
