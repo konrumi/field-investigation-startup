@@ -12,15 +12,14 @@
 
 本书支持在线浏览，您可以通过以下链接在线访问本书：
 
-- `Github Pages` [《猫盟野外调查起步》 在线版](https://konrumi.github.io/field-investigation-startup/)
+- `Github Pages` [猫盟野外调查起步](https://konrumi.github.io/field-investigation-startup/ "猫盟野外调查起步")
 
 ## 下载浏览
 
 您亦可下载本书的电子版，存至本地观看：
 
-- **暂无**
+- `PDF 59.1MB` [猫盟野外调查起步](https://pan.baidu.com/s/1o82vNrc "猫盟野外调查起步")
 
-<!-- - [《猫盟野外调查起步》 PDF版](/ "下载PDF版") `(--MB .pdf)` -->
 
 ## 反馈
 
