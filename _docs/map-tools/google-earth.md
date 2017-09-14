@@ -162,19 +162,29 @@ Google Earth的软件界面大致如下：
 
 若想再次编辑路径的信息及位置，在 **位置面板** 中右键点击路径，在弹出菜单中选择 **属性** ，即可再次编辑路径。
 
+路径一般代表期望的行进路线，Google Earth可以显示路径中不同阶段的海拔高度变化情况，以作为登山情况的评估依据。
+
+若需查看路径的高度信息，在 **位置面板** 中右键点击路径，在弹出菜单中选择 **显示高度配置文件**
+
+![添加路径](../asset/map-tools/google-earth/edit-12.png)
+
+Google Earth 将在界面底部开启 **高度信息窗口** ，显示路径中高度的变化情况。用鼠标在窗口的高度变化图中移动，可以查看图表横轴与路径位置的对应。
+
+![添加路径](../asset/map-tools/google-earth/edit-13.png)
+
 ### 保存位置到数据文件
 
 在位置面板中，首先确保需要保存的地标、轨迹等处于同一个目录内。
 
-![添加路径](../asset/map-tools/google-earth/edit-12.png)
+![保存位置到数据文件](../asset/map-tools/google-earth/edit-14.png)
 
 右键单击目录，在弹出菜单中选择 **将位置另存为…** ，或选中目录后，按下键盘的 **`Ctrl+S`** 。
 
-![添加路径](../asset/map-tools/google-earth/edit-13.png)
+![保存位置到数据文件](../asset/map-tools/google-earth/edit-15.png)
 
 在弹出菜单中，将位置保存至 `kml` 或 `kmz` 文件即可。
 
-![添加路径](../asset/map-tools/google-earth/edit-14.png)
+![保存位置到数据文件](../asset/map-tools/google-earth/edit-16.png)
 
 ---
 
@@ -209,7 +219,7 @@ Google Earth的软件界面大致如下：
 
 若导入的是具有时间信息的 **航迹（Track）** ，则可通过顶部的 **时间控制** 窗口，调整时间轴，地图上将显示不同时间在该航迹中对应的位置。
 
-![导入数据文件](../asset/map-tools/googleh-earth/reload-03.png)
+![导入数据文件](../asset/map-tools/google-earth/reload-03.png)
 
 位置导入后，即可用之前所述的方法进行编辑。
 
@@ -280,7 +290,7 @@ Google Earth提供了测量功能，可在地图中测量距离、方位、面�
 
 在 **测量路径** 模式下，在地图中任意点击多点创建路径，或拖动鼠标画出一条较为平滑的拟合路径（需关闭 **鼠标导航** ），窗口中将显示路径长度。
 
-勾选 **显示海拔剖面图** 后，还会弹出窗口，显示路径中不同阶段的海拔高度变化情况，方便评估登山相关的事宜。
+勾选 **显示海拔剖面图** 后，还会弹出窗口，显示路径中不同阶段的海拔高度变化情况，以作为登山情况的评估依据。
 
 ![测量工具](../asset/map-tools/google-earth/measure-03.png)
 
