@@ -380,4 +380,4 @@
 ## 参考信息
 - [蒋老师讲座直播录像](http://weibo.com/tv/l/DsB5XjH4Jqjpkqq0 "蒋老师讲座直播录像")
 - [蒋老师讲座PPT](https://github.com/konrumi/field-investigation-startup/blob/master/_docs/asset/investigation/course/FALLING%20LOVE%20WITH%20THE%20WILD.pptx?raw=true "蒋老师讲座PPT")
-- 调查表（待定）。
+- [调查信息记录表](../asset/investigation/course/带豹回家前期调查信息记录表.pdf "调查信息记录表")。

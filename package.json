@@ -1,6 +1,6 @@
 {
   "name": "field-investigation-startup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CFCA homing-leopards project field investigation startup book",
   "main": "index.js",
   "scripts": {
